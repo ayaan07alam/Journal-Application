@@ -1,0 +1,310 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5af43055-c3a3-4339-9491-a3ddff0d6647" name="Changes" comment="Third Commit">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/journaApp-24-12-23_15-21.0.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/journaApp-24-12-23_15-23.0.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/journalApp.log" beforeDir="false" afterPath="$PROJECT_DIR$/journalApp.log" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;history&quot;: [
+    {
+      &quot;state&quot;: &quot;OPEN&quot;,
+      &quot;assignee&quot;: &quot;ayaan07alam&quot;,
+      &quot;author&quot;: &quot;ayaan07alam&quot;
+    }
+  ],
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;ayaan07alam&quot;,
+    &quot;author&quot;: &quot;ayaan07alam&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/ayaan07alam/Journal-Application.git&quot;,
+    &quot;accountId&quot;: &quot;83e45943-f682-4eb7-876c-f064f8765c14&quot;
+  }
+}</component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/main/resources/application.properties" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHomeTypeForPersistence" value="WRAPPER" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2pkLGvLJAW4Jj1WutUf6so0iTwN" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.JournalApplication.executor": "Run",
+    "JUnit.UserDetailsServiceImplTest.loadUserByUsernameTest.executor": "Debug",
+    "JUnit.UserServiceTest.test.executor": "Run",
+    "JUnit.UserServiceTest.testAdd.executor": "Run",
+    "JUnit.UserServiceTest.testFindByUserName.executor": "Coverage",
+    "JUnit.UserServiceTest.testSaveNewUser.executor": "Run",
+    "Notification.DisplayName-DoNotAsk-Database detector": "Database detector",
+    "Notification.DoNotAsk-Database detector": "true",
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SONARLINT_PRECOMMIT_ANALYSIS": "true",
+    "Spring Boot.JournalApplication.executor": "Run",
+    "full.screen.before.presentation.mode": "false",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/Downloads/demo-1.2.3.zip",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Problems",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="Spring Boot.JournalApplication">
+    <configuration name="UserDetailsServiceImplTest.loadUserByUsernameTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="journalapp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ayaanalam.journalapp.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.ayaanalam.journalapp.service" />
+      <option name="MAIN_CLASS_NAME" value="com.ayaanalam.journalapp.service.UserDetailsServiceImplTest" />
+      <option name="METHOD_NAME" value="loadUserByUsernameTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserServiceTest.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="journalapp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ayaanalam.journalapp.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.ayaanalam.journalapp.service" />
+      <option name="MAIN_CLASS_NAME" value="com.ayaanalam.journalapp.service.UserServiceTest" />
+      <option name="METHOD_NAME" value="test(int,int,int)" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserServiceTest.testAdd" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="journalapp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ayaanalam.journalapp.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.ayaanalam.journalapp.service" />
+      <option name="MAIN_CLASS_NAME" value="com.ayaanalam.journalapp.service.UserServiceTest" />
+      <option name="METHOD_NAME" value="testAdd" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserServiceTest.testFindByUserName" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="journalapp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ayaanalam.journalapp.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.ayaanalam.journalapp.service" />
+      <option name="MAIN_CLASS_NAME" value="com.ayaanalam.journalapp.service.UserServiceTest" />
+      <option name="METHOD_NAME" value="testFindByUserName" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserServiceTest.testSaveNewUser" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="journalapp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ayaanalam.journalapp.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.ayaanalam.journalapp.service" />
+      <option name="MAIN_CLASS_NAME" value="com.ayaanalam.journalapp.service.UserServiceTest" />
+      <option name="METHOD_NAME" value="testSaveNewUser(com.ayaanalam.journalapp.entity.User)" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JournalApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="C:/Program Files/Java/jdk-17" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <module name="journalapp" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.ayaanalam.journalapp.JournalApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.UserDetailsServiceImplTest.loadUserByUsernameTest" />
+      <item itemvalue="JUnit.UserServiceTest.test" />
+      <item itemvalue="JUnit.UserServiceTest.testAdd" />
+      <item itemvalue="JUnit.UserServiceTest.testFindByUserName" />
+      <item itemvalue="JUnit.UserServiceTest.testSaveNewUser" />
+      <item itemvalue="Spring Boot.JournalApplication" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.UserDetailsServiceImplTest.loadUserByUsernameTest" />
+        <item itemvalue="JUnit.UserServiceTest.testFindByUserName" />
+        <item itemvalue="JUnit.UserServiceTest.testSaveNewUser" />
+        <item itemvalue="JUnit.UserServiceTest.test" />
+        <item itemvalue="JUnit.UserServiceTest.testAdd" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-28b599e66164-intellij.indexing.shared.core-IU-242.24807.4" />
+        <option value="bundled-js-predefined-d6986cc7102b-5c90d61e3bab-JavaScript-IU-242.24807.4" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5af43055-c3a3-4339-9491-a3ddff0d6647" name="Changes" comment="" />
+      <created>1733305034774</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1733305034774</updated>
+      <workItem from="1733735697076" duration="108000" />
+      <workItem from="1733736159898" duration="10802000" />
+      <workItem from="1733751519303" duration="1750000" />
+      <workItem from="1733758759831" duration="12000" />
+      <workItem from="1733758795111" duration="1469000" />
+      <workItem from="1733761614247" duration="2465000" />
+      <workItem from="1733915101470" duration="2121000" />
+      <workItem from="1733917573111" duration="3869000" />
+      <workItem from="1734010316480" duration="5094000" />
+      <workItem from="1734022915584" duration="3000" />
+      <workItem from="1734026331113" duration="5540000" />
+      <workItem from="1734085223768" duration="11562000" />
+      <workItem from="1734185036709" duration="15749000" />
+      <workItem from="1734209574658" duration="105000" />
+      <workItem from="1734246724397" duration="4471000" />
+      <workItem from="1734259556549" duration="1786000" />
+      <workItem from="1734338269126" duration="1204000" />
+      <workItem from="1734360451427" duration="2325000" />
+      <workItem from="1734418640323" duration="11526000" />
+      <workItem from="1734514953479" duration="1305000" />
+      <workItem from="1734584223327" duration="596000" />
+      <workItem from="1734594883930" duration="7015000" />
+      <workItem from="1734710082163" duration="7834000" />
+      <workItem from="1734773127591" duration="11336000" />
+      <workItem from="1734939155273" duration="6058000" />
+      <workItem from="1734946692417" duration="4543000" />
+      <workItem from="1734956740368" duration="741000" />
+    </task>
+    <task id="LOCAL-00001" summary="Third Commit">
+      <option name="closed" value="true" />
+      <created>1734956541108</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1734956541108</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="dependencySupport" implementationName="java:org.springframework:spring-core" />
+    <option featureType="dependencySupport" implementationName="java:org.springframework.data:spring-data-commons" />
+    <option featureType="dependencySupport" implementationName="java:org.springframework.boot:spring-boot" />
+    <option featureType="dependencySupport" implementationName="java:org.springframework:spring-webmvc" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Third Commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Third Commit" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="org.springframework.beans.factory.BeanCreationException" package="org.springframework.beans.factory" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="org.springframework.beans.factory.UnsatisfiedDependencyException" package="org.springframework.beans.factory" />
+          <option name="timeStamp" value="2" />
+        </breakpoint>
+      </breakpoints>
+      <default-breakpoints>
+        <breakpoint enabled="true" type="java-exception" />
+      </default-breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/journalapp$UserServiceTest_testFindByUserName.ic" NAME="UserServiceTest.testFindByUserName Coverage Results" MODIFIED="1734779019937" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true">
+      <FILTER>com.ayaanalam.journalapp.service.*</FILTER>
+    </SUITE>
+  </component>
+</project>

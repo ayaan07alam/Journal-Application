@@ -1,0 +1,15 @@
+com\ayaanalam\journalapp\config\TransactionConfig.class
+com\ayaanalam\journalapp\entity\JournalEntry.class
+com\ayaanalam\journalapp\service\UserDetailsServiceImpl.class
+com\ayaanalam\journalapp\entity\User.class
+com\ayaanalam\journalapp\service\JournalEntryService.class
+com\ayaanalam\journalapp\JournalApplication.class
+com\ayaanalam\journalapp\entity\User$UserBuilder.class
+com\ayaanalam\journalapp\repository\JournalEntryRepository.class
+com\ayaanalam\journalapp\controller\AdminController.class
+com\ayaanalam\journalapp\repository\UserRepository.class
+com\ayaanalam\journalapp\config\SpringSecurity.class
+com\ayaanalam\journalapp\controller\UserController.class
+com\ayaanalam\journalapp\controller\JournalEntryController.class
+com\ayaanalam\journalapp\controller\PublicController.class
+com\ayaanalam\journalapp\service\UserService.class

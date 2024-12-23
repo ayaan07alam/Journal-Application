@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.ayaanalam.journalapp.service.UserServiceTest
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 0, Errors: 0, Skipped: 3, Time elapsed: 3.573 s -- in com.ayaanalam.journalapp.service.UserServiceTest
