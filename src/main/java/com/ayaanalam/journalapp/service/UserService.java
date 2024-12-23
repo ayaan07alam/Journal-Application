@@ -36,7 +36,6 @@ public class UserService {
             userRepository.save(user);
             return true;
         } catch (Exception e) {
-            logger.info("hahhahhahahha");
             return false;
         }
 }
