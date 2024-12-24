@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5af43055-c3a3-4339-9491-a3ddff0d6647" name="Changes" comment="Third Commit" />
+    <list default="true" id="5af43055-c3a3-4339-9491-a3ddff0d6647" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -68,7 +68,11 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.JournalApplication.executor": "Run",
+    "JUnit.EmailServiceTest.executor": "Run",
+    "JUnit.EmailServiceTest.testSendMail.executor": "Run",
     "JUnit.UserDetailsServiceImplTest.loadUserByUsernameTest.executor": "Debug",
+    "JUnit.UserRepositoryImplTests.executor": "Run",
+    "JUnit.UserRepositoryImplTests.testFindByUsername.executor": "Run",
     "JUnit.UserServiceTest.test.executor": "Run",
     "JUnit.UserServiceTest.testAdd.executor": "Run",
     "JUnit.UserServiceTest.testFindByUserName.executor": "Coverage",
@@ -94,12 +98,12 @@
     "project.structure.last.edited": "Problems",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
+    "settings.editor.selected.configurable": "Errors",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Spring Boot.JournalApplication">
-    <configuration name="UserDetailsServiceImplTest.loadUserByUsernameTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.EmailServiceTest">
+    <configuration name="EmailServiceTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="journalapp" />
       <extension name="coverage">
         <pattern>
@@ -108,56 +112,54 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.ayaanalam.journalapp.service" />
-      <option name="MAIN_CLASS_NAME" value="com.ayaanalam.journalapp.service.UserDetailsServiceImplTest" />
-      <option name="METHOD_NAME" value="loadUserByUsernameTest" />
+      <option name="MAIN_CLASS_NAME" value="com.ayaanalam.journalapp.service.EmailServiceTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EmailServiceTest.testSendMail" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="journalapp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ayaanalam.journalapp.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.ayaanalam.journalapp.service" />
+      <option name="MAIN_CLASS_NAME" value="com.ayaanalam.journalapp.service.EmailServiceTest" />
+      <option name="METHOD_NAME" value="testSendMail" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="UserServiceTest.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="UserRepositoryImplTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="journalapp" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.ayaanalam.journalapp.service.*" />
+          <option name="PATTERN" value="com.ayaanalam.journalapp.repository.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.ayaanalam.journalapp.service" />
-      <option name="MAIN_CLASS_NAME" value="com.ayaanalam.journalapp.service.UserServiceTest" />
-      <option name="METHOD_NAME" value="test(int,int,int)" />
-      <option name="TEST_OBJECT" value="method" />
+      <option name="PACKAGE_NAME" value="com.ayaanalam.journalapp.repository" />
+      <option name="MAIN_CLASS_NAME" value="com.ayaanalam.journalapp.repository.UserRepositoryImplTests" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="UserServiceTest.testFindByUserName" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="UserRepositoryImplTests.testFindByUsername" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="journalapp" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.ayaanalam.journalapp.service.*" />
+          <option name="PATTERN" value="com.ayaanalam.journalapp.repository.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.ayaanalam.journalapp.service" />
-      <option name="MAIN_CLASS_NAME" value="com.ayaanalam.journalapp.service.UserServiceTest" />
-      <option name="METHOD_NAME" value="testFindByUserName" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="UserServiceTest.testSaveNewUser" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="journalapp" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.ayaanalam.journalapp.service.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.ayaanalam.journalapp.service" />
-      <option name="MAIN_CLASS_NAME" value="com.ayaanalam.journalapp.service.UserServiceTest" />
-      <option name="METHOD_NAME" value="testSaveNewUser(com.ayaanalam.journalapp.entity.User)" />
+      <option name="PACKAGE_NAME" value="com.ayaanalam.journalapp.repository" />
+      <option name="MAIN_CLASS_NAME" value="com.ayaanalam.journalapp.repository.UserRepositoryImplTests" />
+      <option name="METHOD_NAME" value="testFindByUsername" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -188,20 +190,20 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="JUnit.EmailServiceTest" />
+      <item itemvalue="JUnit.EmailServiceTest.testSendMail" />
+      <item itemvalue="JUnit.UserRepositoryImplTests" />
+      <item itemvalue="JUnit.UserRepositoryImplTests.testFindByUsername" />
       <item itemvalue="JUnit.com.ayaanalam.journalapp.entity in journalapp" />
-      <item itemvalue="JUnit.UserDetailsServiceImplTest.loadUserByUsernameTest" />
-      <item itemvalue="JUnit.UserServiceTest.test" />
-      <item itemvalue="JUnit.UserServiceTest.testFindByUserName" />
-      <item itemvalue="JUnit.UserServiceTest.testSaveNewUser" />
       <item itemvalue="Spring Boot.JournalApplication" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.EmailServiceTest" />
+        <item itemvalue="JUnit.EmailServiceTest.testSendMail" />
+        <item itemvalue="JUnit.UserRepositoryImplTests.testFindByUsername" />
+        <item itemvalue="JUnit.UserRepositoryImplTests" />
         <item itemvalue="JUnit.com.ayaanalam.journalapp.entity in journalapp" />
-        <item itemvalue="JUnit.UserDetailsServiceImplTest.loadUserByUsernameTest" />
-        <item itemvalue="JUnit.UserServiceTest.testFindByUserName" />
-        <item itemvalue="JUnit.UserServiceTest.testSaveNewUser" />
-        <item itemvalue="JUnit.UserServiceTest.test" />
       </list>
     </recent_temporary>
   </component>
@@ -248,7 +250,7 @@
       <workItem from="1734939155273" duration="6058000" />
       <workItem from="1734946692417" duration="4543000" />
       <workItem from="1734956740368" duration="741000" />
-      <workItem from="1734957493223" duration="19402000" />
+      <workItem from="1734957493223" duration="34478000" />
     </task>
     <task id="LOCAL-00001" summary="Third Commit">
       <option name="closed" value="true" />

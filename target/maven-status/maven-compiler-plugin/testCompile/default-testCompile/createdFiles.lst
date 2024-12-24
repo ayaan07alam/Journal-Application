@@ -1,4 +1,6 @@
 com\ayaanalam\journalapp\service\UserDetailsServiceImplTest.class
 com\ayaanalam\journalapp\service\UserServiceTest.class
+com\ayaanalam\journalapp\repository\UserRepositoryImplTests.class
 com\ayaanalam\journalapp\service\UserArgumentProvider.class
+com\ayaanalam\journalapp\service\EmailServiceTest.class
 com\ayaanalam\journalapp\JournalappApplicationTests.class

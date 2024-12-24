@@ -1,0 +1,13 @@
+-------------------------------------------------------------------------------
+Test set: com.ayaanalam.journalapp.repository.UserRepositoryImplTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.029 s <<< FAILURE! -- in com.ayaanalam.journalapp.repository.UserRepositoryImplTests
+com.ayaanalam.journalapp.repository.UserRepositoryImplTests.testFindByUsername -- Time elapsed: 0.009 s <<< ERROR!
+org.springframework.data.mongodb.InvalidMongoDbApiUsageException: Due to limitations of the com.mongodb.BasicDocument, you can't add a second 'email' criteria; Query already contains '{ "email" : { "$exists" : true}}'
+	at org.springframework.data.mongodb.core.query.Query.addCriteria(Query.java:123)
+	at com.ayaanalam.journalapp.repository.UserRepositoryImpl.getUserForSentimentAnalysis(UserRepositoryImpl.java:19)
+	at com.ayaanalam.journalapp.repository.UserRepositoryImplTests.testFindByUsername(UserRepositoryImplTests.java:16)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+

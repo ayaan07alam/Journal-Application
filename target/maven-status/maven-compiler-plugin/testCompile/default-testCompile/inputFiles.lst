@@ -1,4 +1,6 @@
 D:\Course Work\SpringBoot Learning\journalapp\src\test\java\com\ayaanalam\journalapp\JournalappApplicationTests.java
+D:\Course Work\SpringBoot Learning\journalapp\src\test\java\com\ayaanalam\journalapp\repository\UserRepositoryImplTests.java
+D:\Course Work\SpringBoot Learning\journalapp\src\test\java\com\ayaanalam\journalapp\service\EmailServiceTest.java
 D:\Course Work\SpringBoot Learning\journalapp\src\test\java\com\ayaanalam\journalapp\service\UserArgumentProvider.java
 D:\Course Work\SpringBoot Learning\journalapp\src\test\java\com\ayaanalam\journalapp\service\UserDetailsServiceImplTest.java
 D:\Course Work\SpringBoot Learning\journalapp\src\test\java\com\ayaanalam\journalapp\service\UserServiceTest.java
