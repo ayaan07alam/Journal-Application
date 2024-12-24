@@ -65,39 +65,39 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.JournalApplication.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.UserDetailsServiceImplTest.loadUserByUsernameTest.executor&quot;: &quot;Debug&quot;,
-    &quot;JUnit.UserServiceTest.test.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.UserServiceTest.testAdd.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.UserServiceTest.testFindByUserName.executor&quot;: &quot;Coverage&quot;,
-    &quot;JUnit.UserServiceTest.testSaveNewUser.executor&quot;: &quot;Run&quot;,
-    &quot;Notification.DisplayName-DoNotAsk-Database detector&quot;: &quot;Database detector&quot;,
-    &quot;Notification.DoNotAsk-Database detector&quot;: &quot;true&quot;,
-    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
-    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
-    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
-    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SONARLINT_PRECOMMIT_ANALYSIS&quot;: &quot;true&quot;,
-    &quot;Spring Boot.JournalApplication.executor&quot;: &quot;Run&quot;,
-    &quot;full.screen.before.presentation.mode&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/Downloads/demo-1.2.3.zip&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Problems&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.JournalApplication.executor": "Run",
+    "JUnit.UserDetailsServiceImplTest.loadUserByUsernameTest.executor": "Debug",
+    "JUnit.UserServiceTest.test.executor": "Run",
+    "JUnit.UserServiceTest.testAdd.executor": "Run",
+    "JUnit.UserServiceTest.testFindByUserName.executor": "Coverage",
+    "JUnit.UserServiceTest.testSaveNewUser.executor": "Run",
+    "JUnit.com.ayaanalam.journalapp.entity in journalapp.executor": "Coverage",
+    "Notification.DisplayName-DoNotAsk-Database detector": "Database detector",
+    "Notification.DoNotAsk-Database detector": "true",
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SONARLINT_PRECOMMIT_ANALYSIS": "true",
+    "Spring Boot.JournalApplication.executor": "Run",
+    "full.screen.before.presentation.mode": "false",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/Downloads/demo-1.2.3.zip",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Problems",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RunManager" selected="Spring Boot.JournalApplication">
     <configuration name="UserDetailsServiceImplTest.loadUserByUsernameTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="journalapp" />
@@ -126,22 +126,6 @@
       <option name="PACKAGE_NAME" value="com.ayaanalam.journalapp.service" />
       <option name="MAIN_CLASS_NAME" value="com.ayaanalam.journalapp.service.UserServiceTest" />
       <option name="METHOD_NAME" value="test(int,int,int)" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="UserServiceTest.testAdd" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="journalapp" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.ayaanalam.journalapp.service.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.ayaanalam.journalapp.service" />
-      <option name="MAIN_CLASS_NAME" value="com.ayaanalam.journalapp.service.UserServiceTest" />
-      <option name="METHOD_NAME" value="testAdd" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -179,6 +163,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="com.ayaanalam.journalapp.entity in journalapp" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="journalapp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ayaanalam.journalapp.entity.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.ayaanalam.journalapp.entity" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="JournalApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
       <option name="ALTERNATIVE_JRE_PATH" value="C:/Program Files/Java/jdk-17" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
@@ -190,20 +188,20 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="JUnit.com.ayaanalam.journalapp.entity in journalapp" />
       <item itemvalue="JUnit.UserDetailsServiceImplTest.loadUserByUsernameTest" />
       <item itemvalue="JUnit.UserServiceTest.test" />
-      <item itemvalue="JUnit.UserServiceTest.testAdd" />
       <item itemvalue="JUnit.UserServiceTest.testFindByUserName" />
       <item itemvalue="JUnit.UserServiceTest.testSaveNewUser" />
       <item itemvalue="Spring Boot.JournalApplication" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.com.ayaanalam.journalapp.entity in journalapp" />
         <item itemvalue="JUnit.UserDetailsServiceImplTest.loadUserByUsernameTest" />
         <item itemvalue="JUnit.UserServiceTest.testFindByUserName" />
         <item itemvalue="JUnit.UserServiceTest.testSaveNewUser" />
         <item itemvalue="JUnit.UserServiceTest.test" />
-        <item itemvalue="JUnit.UserServiceTest.testAdd" />
       </list>
     </recent_temporary>
   </component>
@@ -250,7 +248,7 @@
       <workItem from="1734939155273" duration="6058000" />
       <workItem from="1734946692417" duration="4543000" />
       <workItem from="1734956740368" duration="741000" />
-      <workItem from="1734957493223" duration="1385000" />
+      <workItem from="1734957493223" duration="19402000" />
     </task>
     <task id="LOCAL-00001" summary="Third Commit">
       <option name="closed" value="true" />
@@ -288,9 +286,6 @@
           <option name="timeStamp" value="2" />
         </breakpoint>
       </breakpoints>
-      <default-breakpoints>
-        <breakpoint enabled="true" type="java-exception" />
-      </default-breakpoints>
     </breakpoint-manager>
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
@@ -300,6 +295,9 @@
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/journalapp$UserServiceTest_testFindByUserName.ic" NAME="UserServiceTest.testFindByUserName Coverage Results" MODIFIED="1734779019937" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true">
       <FILTER>com.ayaanalam.journalapp.service.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/journalapp$com_ayaanalam_journalapp_entity_in_journalapp.ic" NAME="com.ayaanalam.journalapp.entity in journalapp Coverage Results" MODIFIED="1735030179331" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true">
+      <FILTER>com.ayaanalam.journalapp.entity.*</FILTER>
     </SUITE>
   </component>
 </project>

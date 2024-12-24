@@ -14,10 +14,11 @@ import org.springframework.stereotype.Component;
 
 import com.ayaanalam.journalapp.entity.JournalEntry;
 import com.ayaanalam.journalapp.repository.JournalEntryRepository;
+import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;
 
-//@Slf4j
-@Component
+@Slf4j
+@Service
 public class JournalEntryService {
 
     @Autowired
@@ -25,8 +26,6 @@ public class JournalEntryService {
 
     @Autowired
     private UserService userService;
-
-
 
     @Transactional
     public void saveEntry(JournalEntry journalEntry, String userName) {
@@ -64,7 +63,7 @@ public class JournalEntryService {
                 journalEntryRepository.deleteById(id);
             }
         } catch (Exception e) {
-            System.out.println(e);
+            log.error("Error deleting journal entry", e);
             throw new RuntimeException("An error occured while deleting the entry",e);
         }
         return removed;
